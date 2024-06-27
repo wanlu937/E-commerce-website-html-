@@ -1,0 +1,65 @@
+.btn-group{
+    display:flex;
+    margin-top: 70px;
+    padding: auto;
+}
+
+.navbar-container {
+    display:flex;
+    top:80px;
+}
+
+.Carousel{
+    display:flex;
+    margin-top: 110px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.container{
+    display:flex;
+    margin: 0%;
+}
+
+.container-btn{
+    border:none;
+    padding:10px;
+    box-sizing: border-box;
+    background: #ffffff;
+}
+
+.container-btn-img img{
+    width:200px;    
+    height:200px;
+    }
+
+.container-btn-text p{
+    width:200px;    
+    height:30px;
+    }
+
+.blog{
+    display:flex;
+}
+.blog-bnt{
+    border:none;
+    padding:10px;
+    box-sizing: border-box;
+    background: #ffffff;
+    flex-direction:row;
+}
+
+.blog-btn-img img{
+    width:400px;    
+    height:300px;
+    }
+
+.blog-btn-title H3{
+    width:400px;    
+    height:100px;
+    }
+
+.blog-btn-text P{
+    width:400px;    
+    height:100px;
+    }
